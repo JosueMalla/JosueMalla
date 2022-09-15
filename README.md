@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jossueth
+- 👀 I’m a currently begginer developer
+- 🌱 I’m currently learning Javascript, hmtl, css, java, pyhton and English
+- 💞️ I’m looking to collaborate on projects which involucrates OPP
+- 📫 Ypu can contact me on Discord as Jossueth#8070
