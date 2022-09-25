@@ -5,10 +5,10 @@
 - 📫 You can contact me on Discord as Jossueth#8070
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueMalla&show_icons=true&bg_color=000000&icon_color=ff8000&title_color=ffffff" href="https://github.com/JosueMalla">
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueMalla&show_icons=true&bg_color=000000&icon_color=ff8000&title_color=ff8000" href="https://github.com/JosueMalla">
 </div>
 
 <br><br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMalla&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMalla&show_icons=true&bg_color=000000&title_color=ff8000">
 </div>
