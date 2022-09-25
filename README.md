@@ -19,7 +19,7 @@
 <div align="center" display="inline-block">
   <a href="https://www.linkedin.com/in/josue-manuel-malla-campoverde-48037b248/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josue%20Malla-blue?style=flat-square&logo=linkedin"></a>
 
-  <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-josuema.th-black?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/josuema.th/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-josuema.th-black?style=flat-square&logo=instagram"></a>
 
   <a href="mailto:negritomallapqs@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-negritomallapqs@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </div>
