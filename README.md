@@ -6,4 +6,4 @@
 
 [![JosueMalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueMalla&show_icons=true)](https://github.com/JosueMalla)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMalla_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMalla&show_icons=true)
