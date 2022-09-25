@@ -5,5 +5,5 @@
 - 📫 You can contact me on Discord as Jossueth#8070
 
 [![JosueMalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueMalla&show_icons=true)](https://github.com/JosueMalla)
-<br>
+<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMalla&show_icons=true)
