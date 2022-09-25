@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josue Malla
+- 👋 Hi, I’m Josue
 - 👀 I’m a begginer developer
 - 🌱 I’m currently learning Javascript, hmtl, css, java, pyhton and English
 - 💞️ I’m looking to collaborate on projects which involucrates OOP
