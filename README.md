@@ -5,7 +5,7 @@
 - 📫 You can contact me on Discord as Jossueth#8070
 
 <div align="center">
-  [![JosueMalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosueMalla&show_icons=true&background_color=000000&icon_color=ff8000)](https://github.com/JosueMalla)
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueMalla&show_icons=true&background_color=000000&icon_color=ff8000" href="https://github.com/JosueMalla">
 </div>
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMalla&show_icons=true)
