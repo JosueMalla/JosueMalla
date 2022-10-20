@@ -17,7 +17,7 @@
 <h2>Contact me</h2>
 
 <div align="center" display="inline-block">
-  <a target="_blank" href="https://www.linkedin.com/in/josue-manuel-malla-campoverde-48037b248/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josue%20Malla-blue?style=flat-square&logo=linkedin" display="inline-block"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/manuel-josue-malla-48037b248/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josue%20Malla-blue?style=flat-square&logo=linkedin" display="inline-block"></a>
 
   <a target="_blank" href="https://www.instagram.com/josuema.th/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-josuema.th-black?style=flat-square&logo=instagram" display="inline-block"></a>
 
