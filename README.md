@@ -21,5 +21,5 @@
 
   <a target="_blank" href="https://www.instagram.com/jossue_ma/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jossue_ma-black?style=flat-square&logo=instagram" display="inline-block"></a>
 
-  <a href="mailto:negritomallapqs@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-negritomallapqs@hotmail.com-orange?style=flat-square&logo=gmail" display="inline-block"></a>
+  <a href="mailto:mmalla1@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-mmalla1@outlook.com-orange?style=flat-square&logo=gmail" display="inline-block"></a>
 </div>
