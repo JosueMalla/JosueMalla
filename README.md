@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Josue Malla
 - 👀 I’m a begginer developer
-- 🌱 I’m currently learning Javascript, hmtl, css, java, pyhton and English
-- 💞️ I’m looking to collaborate on projects
 <hr class="dashed">
 <div align="center">
   <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=jossuema&show_icons=true&bg_color=000000&icon_color=ff8000&title_color=ff8000&text_color=ffffff" href="https://github.com/JosueMalla">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,13 +23,13 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </p>
 
 <h3 align="center"> Learning: </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=darkgreen&style=for-the-badge">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </p>
 
 <hr class="dashed">
