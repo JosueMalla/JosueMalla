@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Josue Malla
 - 👀 I’m a begginer developer
+
+Hello, I'm Manuel Malla a young student at the Technical University of Machala. I am passionate about technology and software development, that has led me to be self-taught and learn different skills and tools that will help me in my professional career. I am looking for opportunities that will lead me to develop professionally in the world of software development.
+
 <hr class="dashed">
 <div align="center">
   <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=jossuema&show_icons=true&bg_color=000000&icon_color=ff8000&title_color=ff8000&text_color=ffffff" href="https://github.com/JosueMalla">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,8 +39,8 @@
 <h2>Contact me</h2>
 
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/manuel-josue-malla-48037b248/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josue%20Malla-blue?style=flat-square&logo=linkedin" display="inline-block"></a>
-  <a target="_blank" href="https://www.instagram.com/jossue_ma/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jossue_ma-black?style=flat-square&logo=instagram" display="inline-block"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/manuel-josue-malla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josue%20Malla-blue?style=flat-square&logo=linkedin" display="inline-block"></a>
+  <a target="_blank" href="https://www.instagram.com/jossuema.th/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jossue_ma-black?style=flat-square&logo=instagram" display="inline-block"></a>
   <a href="mailto:mmalla1@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-mmalla1@outlook.com-orange?style=flat-square&logo=gmail" display="inline-block"></a>
 </div>
 
