@@ -1,47 +1,51 @@
-- 👋 Hi, I’m Josue Malla
-- 👀 I’m a begginer developer
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jossuema&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossuema&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div> 
 
-Hello, I'm Manuel Malla a young student at the Technical University of Machala. I am passionate about technology and software development, that has led me to be self-taught and learn different skills and tools that will help me in my professional career. I am looking for opportunities that will lead me to develop professionally in the world of software development.
+<h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jossuema&theme=github_dark" />
+</p>
 
 <hr class="dashed">
-<div align="center">
-  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=jossuema&show_icons=true&bg_color=000000&icon_color=ff8000&title_color=ff8000&text_color=ffffff" href="https://github.com/JosueMalla">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossuema&show_icons=true&bg_color=000000&title_color=ff8000&text_color=ffffff&font_">
-</div>
-  
 
-<h3 align="center"> Skills and Tools</h3>
+<h2 align="center"> Skills and Tools</h2>
 <br> 
 
 <p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=black&style=for-the-badge">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"  title="Javascript">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="48 title="Spring"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width="48" title="Maven">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MYSQL">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="PostgreSQL">
+  
 </p>
 
-<h3 align="center"> Learning: </h3>
+<h2 align="center"> Learning: </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=darkgreen&style=for-the-badge">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="48" title="Redis">
+  
 </p>
 
 <hr class="dashed">
-<h2>Contact me</h2>
+<h2 align="center">Contact me</h2>
 
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/manuel-josue-malla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josue%20Malla-blue?style=flat-square&logo=linkedin" display="inline-block"></a>
-  <a target="_blank" href="https://www.instagram.com/jossuema.th/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jossue_ma-black?style=flat-square&logo=instagram" display="inline-block"></a>
-  <a href="mailto:mmalla1@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-mmalla1@outlook.com-orange?style=flat-square&logo=gmail" display="inline-block"></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/manuel-josue-malla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://www.instagram.com/josuema.th/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
+  <a href="https://twitter.com/jossue_maa" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" /></a>
+</p>
 
 
